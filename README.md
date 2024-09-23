@@ -1,4 +1,4 @@
-Web3 StakingToken
+
 The Staking Contract is a decentralized application that enables users to securely stake their ERC20 tokens, earning rewards over time while participating in the network's governance. Built using Solidity and leveraging the OpenZeppelin library, the contract incorporates several key features to ensure safety, flexibility, and usability.
 
 Key Features:
